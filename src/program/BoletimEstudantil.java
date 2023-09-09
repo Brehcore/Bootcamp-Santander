@@ -18,6 +18,7 @@ public class BoletimEstudantil {
 			System.out.println("Aprovado");
 		
 		sc.close();
-	}
+		
+		}
 
 }
